@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Overtime</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="startButtonLabel">Start Time</string>
+	<string name="endButtonLabel">End Time</string>
+	<string name="overTimeLabel">Time Over 8 Hours and 35 Minutes</string>
+	<string name="otButton">Calculate</string>
+	<string name="directionsLabel">Set start time then end time to calculate overtime minutes. Time displayed in HH:MM</string>
+     
+</resources>
